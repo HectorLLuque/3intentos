@@ -1,2 +1,2 @@
-# 3intentos
+# Medallas2
 Created with CodeSandbox
